@@ -51,10 +51,10 @@ public class Exam1 {
         //===========================================================================================================
         // 문제7
 
-        Dog dog1 = new Dog();
+      //  Dog dog1 = new Dog();
 
 
-       System.out.printf("%d살 강아지 %s\n", dog1.age, dog1.name); //출력: 5살 강아지 Max
+      // System.out.printf("%d살 강아지 %s\n", dog1.age, dog1.name); //출력: 5살 강아지 Max
 
         //===========================================================================================================
         // 문제8 -> 빈칸은 class에 있습니다.
@@ -82,7 +82,7 @@ class Dog {
     }
 
     // 문제 8
-   void classInfo() {
+    void classInfo() {
         System.out.println("이름과 나이를 이용해 Dog를 만드는 Dog class 입니다.");
     }
 
